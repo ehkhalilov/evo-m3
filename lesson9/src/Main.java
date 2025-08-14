@@ -2,11 +2,11 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        Cat cat = new Cat("Tom", 2, "test");
+//        Animal cat = new Cat("Tom", 2, "test");
 //        cat.meow();
 
-        Lion lion = new Lion("Tom", 2, "test", "test2");
-        lion.test();
+//        Lion lion = new Lion("Tom", 2, "test", "test2");
+//        lion.test();
 //        Figure area() perimeter() override this methods in child classes
 //        Triangle int a int b int c
 //        Rectangle int a int b int c int d
@@ -17,7 +17,7 @@ public class Main {
 
 //        Dog dog = new Dog("Xatiko", 3);
 //        dog.bark();
-        
+
 //        String strOb1 = new String("Hello");
 //        String strOb2 = new String("Hello");
 
