@@ -8,4 +8,5 @@ public class BankProduct {
     public void setId(int id) {
         this.id = id;
     }
+    // factorial, 3456 polindrome rekursiya ile
 }
