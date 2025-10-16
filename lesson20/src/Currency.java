@@ -8,7 +8,8 @@ public enum Currency implements Test {
     }
 
     public double convert(double amount, Currency to) {
-        return amount / rate;
+        var azn = amount * rate;
+        return azn / to.rate;
     }
 
     @Override
